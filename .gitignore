@@ -1,0 +1,6 @@
+# .gitignore for C
+*.o
+*.exe
+*.out
+*.dSYM/
+.vscode/
