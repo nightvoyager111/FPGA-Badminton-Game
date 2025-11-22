@@ -1,0 +1,4 @@
+- Built a two-player badminton game on the DE1-SoC FPGA using VGA display output and PS/2 keyboard input.
+- Programmed shuttlecock physics, including velocity direction control, collision detection, and net-boundary restrictions.
+- Created custom stickman animations with opposite-hand racket swings designs for left and right players.
+- You can open this folder in CPUlator to play with it, the website: https://cpulator.01xz.net/?sys=rv32-de1soc
